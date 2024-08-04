@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mantu Kumar Morya</h1>
+<p align="center">
+  📞 9649486218 • 📧 mantukumar87586299@gmail.com <br/>
+  🔗 <a href="https://www.linkedin.com/in/mantu-kumar-morya-011927253/">LinkedIn</a> • 💻 <a href="https://github.com/Mantu008">GitHub</a>
+</p>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> 
@@ -80,13 +84,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mantu008&show_icons=true&locale=en" alt="mantu008" /></p>
 
-# Mantu Kumar Morya | Full Stack Developer
-
-
-<p align="center">
-  📞 9649486218 • 📧 mantukumar87586299@gmail.com <br/>
-  🔗 <a href="https://www.linkedin.com/in/mantu-kumar-morya-011927253/">LinkedIn</a> • 💻 <a href="https://github.com/Mantu008">GitHub</a>
-</p>
 
 ## Profile Summary
 As a current fifth-semester student, my proficiency spans a diverse spectrum of web development technologies. I am a dedicated and versatile Full Stack Developer with a robust foundation in both frontend and backend technologies. My technical proficiency spans across various modern web development frameworks and languages, enabling me to build dynamic and responsive web applications.
