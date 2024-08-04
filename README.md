@@ -83,7 +83,7 @@
 # Mantu Kumar Morya | Full Stack Developer
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/12345678?s=400&v=4](https://media.licdn.com/dms/image/D4D03AQGBl7KvOCdQzw/profile-displayphoto-shrink_400_400/0/1711864556745?e=1728518400&v=beta&t=TK3o4s6qLbF2cbcKbr9iE0lWiqLR2YDJn5qQtoZSmC0)" alt="Mantu Kumar Morya" width="150"/>
+  <img src="https://avatars.githubusercontent.com/u/12345678?s=400&v=4](https://media.licdn.com/dms/image/D4D03AQGBl7KvOCdQzw/profile-displayphoto-shrink_400_400/0/1711864556745?e=1728518400&v=beta&t=TK3o4s6qLbF2cbcKbr9iE0lWiqLR2YDJn5qQtoZSmC0" alt="Mantu Kumar Morya" width="150"/>
 </p>
 
 <p align="center">
