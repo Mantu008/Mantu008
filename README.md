@@ -11,7 +11,10 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **MERN, DSA, MySQL**
+- 💬 Ask me about ** Frontend: HTML, CSS, JavaScript, React.js, Bootstrap
+Backend: Node.js, Express.js
+Database: MongoDB
+Others: Java, Data Structures and Algorithms, C**
 
 - 📫 How to reach me **mantukumar87586299@gmail.com**
 
