@@ -82,9 +82,6 @@
 
 # Mantu Kumar Morya | Full Stack Developer
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?s=400&v=4](https://media.licdn.com/dms/image/D4D03AQGBl7KvOCdQzw/profile-displayphoto-shrink_400_400/0/1711864556745?e=1728518400&v=beta&t=TK3o4s6qLbF2cbcKbr9iE0lWiqLR2YDJn5qQtoZSmC0" alt="Mantu Kumar Morya" width="150"/>
-</p>
 
 <p align="center">
   📞 9649486218 • 📧 mantukumar87586299@gmail.com <br/>
@@ -99,9 +96,6 @@ As a current fifth-semester student, my proficiency spans a diverse spectrum of 
 ### Backend Website
 **April 2024 – May 2024**
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Backend Website" />
-</p>
 
 - **Comprehensive CRUD Operations:** Implements Create, Read, Update, and Delete operations with Express.js and MongoDB for efficient data handling, allowing users to manage resources seamlessly.
 - **User Authentication:** Provides sign-up, login, and logout functionalities using JWT, ensuring secure user authentication and session management.
@@ -113,9 +107,6 @@ As a current fifth-semester student, my proficiency spans a diverse spectrum of 
 ### E-Commerce Garment Website (Frontend)
 **March 2024 – April 2024**
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300" alt="E-Commerce Garment Website" />
-</p>
 
 - Utilized Redux Toolkit for managing state in a React application, employing its simplified API for configuring Redux store, reducers, and actions.
 - Incorporated React Router for client-side routing within the React application, enabling dynamic rendering of components based on URL.
@@ -126,10 +117,6 @@ As a current fifth-semester student, my proficiency spans a diverse spectrum of 
 
 ### E-Commerce Website (Simple)
 **March 2023 – June 2023**
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300" alt="E-Commerce Website (Simple)" />
-</p>
 
 - Designed and coded a responsive Electronic E-Commerce Website using HTML, CSS, JavaScript, and Bootstrap.
 - Strengthened proficiency in web development, honing expertise in frontend technologies and responsive design through hands-on application in a real-world project.
@@ -142,10 +129,6 @@ As a current fifth-semester student, my proficiency spans a diverse spectrum of 
 ### Hackathon-2024 (BHGCE College)
 **March 2024 (Within 36 Hours)**
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Hackathon-2024" />
-</p>
-
 - Medical app lists hospitals accepting Ayushman card for accessibility.
 - Health card feature stores medical records, aiding informed decisions.
 - Video calls promote telemedicine, bridging healthcare gaps in remote areas.
@@ -155,10 +138,6 @@ As a current fifth-semester student, my proficiency spans a diverse spectrum of 
 
 ### Code Carnival Hackathon (ATMYA University)
 **Feb 2024 (Within 36 Hours)**
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Code Carnival Hackathon" />
-</p>
 
 - Secure user authentication for patients and doctors with encryption.
 - Enable doctors to update medical records online securely.
