@@ -7,9 +7,9 @@
 
 ![](https://visitcount.itsvg.in/api?id=Mantu008&icon=0&color=0)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently Work as **Freelancer**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, MongoDB, Java, Data Structures and Algorithms, C**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, MongoDB, Java, Data Structures and Algorithms, C, Next Js**
 
 - 📫 How to reach me **mantukumar87586299@gmail.com**
 
