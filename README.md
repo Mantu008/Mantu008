@@ -1,90 +1,79 @@
-<h1 align="center">Hi 👋, I'm Mantu Kumar Morya</h1>
-<p align="center">
-  📞 9649486218 • 📧 mantukumar87586299@gmail.com <br/>
-  🔗 <a href="https://www.linkedin.com/in/mantu-kumar-morya-011927253/">LinkedIn</a> • 💻 <a href="https://github.com/Mantu008">GitHub</a>
-</p>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+### Hi there! I'm Mantu Kumar Morya 👋
 
-![](https://visitcount.itsvg.in/api?id=Mantu008&icon=0&color=0)
+📍 **Freelance Full Stack Developer**  
+📧 **Email:** [mantukumar87586299@gmail.com](mailto:mantukumar87586299@gmail.com)  
+🔗 **LinkedIn:** [Mantu Kumar Morya](https://www.linkedin.com/in/mantu-kumar-morya-011927253/)  
+💻 **GitHub:** [Mantu008](https://github.com/Mantu008)  
 
-- 🌱 I’m currently Work as **Freelancer**
+---
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Bootstrap, Node.js, Express.js, MongoDB, Java, Data Structures and Algorithms, C, Next Js**
+### 🚀 About Me
+I am a passionate **Full Stack Developer** with experience in designing, developing, and maintaining web applications. My expertise includes front-end and back-end development using modern technologies and frameworks.
 
-- 📫 How to reach me **mantukumar87586299@gmail.com**
+💡 **Skills & Expertise:**
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Other Technologies:** TypeScript, Redux, Firebase, Git, Postman
+- **Programming Languages:** Java, C
+- **CS Fundamentals:** Data Structures & Algorithms
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 💼 Current Work
+- 🌱 **Freelancing:** Working on various client projects, developing scalable and efficient web applications.
+- 💡 **Open to Work:** Looking for new opportunities in Full Stack Development.
+- 📖 **Learning:** Exploring advanced Next.js features and cloud deployment.
+
+---
+
+### 📫 How to Reach Me
+📩 **Email:** [mantukumar87586299@gmail.com](mailto:mantukumar87586299@gmail.com)  
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mantu-kumar-morya-011927253/)  
+💻 **GitHub:** [Check out my projects](https://github.com/Mantu008)  
+📊 **LeetCode:** [My Problem-Solving Profile](https://leetcode.com/Mantu088/)  
+📖 **GeeksforGeeks:** [My GFG Profile](https://auth.geeksforgeeks.org/user/mantu088)  
+
+---
+
+### 🛠️ Languages & Tools
 <p align="left">
-  <a href="https://linkedin.com/in/mantu-kumar-morya-011927253" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mantu-kumar-morya-011927253" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/mantu088" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mantu088" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/mantu088" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mantu088" height="30" width="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mantu008&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mantu008&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" width="49%"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantu008&show_icons=true&locale=en&layout=compact" alt="mantu008" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mantu008&show_icons=true&locale=en" alt="mantu008" /></p>
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mantu008&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
+---
 
-## Social Media Links
-- [LinkedIn](https://www.linkedin.com/in/mantu-kumar-morya-011927253/)
-- [GitHub](https://github.com/Mantu008)
-- [LeetCode](https://leetcode.com/Mantu088/)
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/mantu088)
+### 📌 Featured Projects
+- 🚀 **[Project Name 1](#)** - Short description of the project
+- 🔥 **[Project Name 2](#)** - Short description of the project
+- 💡 **[Project Name 3](#)** - Short description of the project
+
+---
+
+### 🎯 Fun Fact
+⚡ I love solving coding problems and building interactive UIs that enhance user experience!
+
