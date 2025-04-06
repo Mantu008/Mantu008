@@ -77,15 +77,18 @@ I am a passionate **Full Stack Developer** with experience in designing, develop
 ## 📌 Featured Projects
 
 - 🚀 **[Hotel Booking (Hackathon Work)](https://github.com/Mantu008/Hotel-Booking)**  
-  A Hotel Booking frontend that lists hotels with detailed specifications, amenities, and filtering options for easy search and selection.  
+  A Hotel Booking frontend that lists hotels with detailed specifications, amenities, and filtering options for easy search and selection.
+  🔗 [Live Demo](https://web-horizon-hackthone.vercel.app/)  
   **Skills:** React · React Router · Tailwind CSS · Axios · React Icons
 
 - 🔐 **[Next.js & Authentication with NextAuth.js](https://github.com/Mantu008/NEXT-AUTH-V5)**  
-  Implemented secure, scalable authentication using Google, GitHub, and credentials login with session protection and route security.  
+  Implemented secure, scalable authentication using Google, GitHub, and credentials login with session protection and route security.
+  🔗 [Live Demo](https://next-auth-v5-six-lake.vercel.app/)   
   **Skills:** Next.js · NextAuth.js
 
 - 👟 **[KiteFoot - Shoe E-Commerce Website](https://github.com/Mantu008/kitefoot)**  
-  A Shoe E-Commerce Website with category-wise shoe listings, enabling seamless browsing and user-friendly UI.  
+  A Shoe E-Commerce Website with category-wise shoe listings, enabling seamless browsing and user-friendly UI. '
+  🔗 [Live Demo](https://www.kitefoot.com/)   
   **Skills:** React.js · React Router · Tailwind CSS · React Icons
 
 - 🛠️ **[E-Commerce Backend](https://github.com/Mantu008/E-commerce-Backend)**  
@@ -94,7 +97,8 @@ I am a passionate **Full Stack Developer** with experience in designing, develop
   **Skills:** Node.js · Express.js · MongoDB · React.js
 
 - 📦 **[Matrix - Product Packing Management System](https://github.com/Mantu008/Matrix)**  
-  Developed a system that automates product-to-box assignments and generates labeled packing PDFs, reducing processing time by 15%.  
+  Developed a system that automates product-to-box assignments and generates labeled packing PDFs, reducing processing time by 15%.
+  🔗 [Live Demo](https://vergin-matrix-frontend.vercel.app/)  
   🔐 **Demo Credentials:** `Username: mantu@gmail.com | Password: mantu`  
   **Skills:** React.js · Node.js · PDF Generation · Optimization Logic
 
