@@ -76,7 +76,7 @@ I am a passionate **Full Stack Developer** with experience in designing, develop
 
 ## 📌 Featured Projects
 
-- 🚀 **[Hotel Booking (Hackathon Work)](https://github.com/Mantu008/Hotel-Booking)**  
+- 🚀 **[Hotel Booking (Hackathon Work)](https://github.com/Mantu008/Web-Horizon-Hackthone)**  
   A Hotel Booking frontend that lists hotels with detailed specifications, amenities, and filtering options for easy search and selection.
   🔗 [Live Demo](https://web-horizon-hackthone.vercel.app/)  
   **Skills:** React · React Router · Tailwind CSS · Axios · React Icons
@@ -86,8 +86,8 @@ I am a passionate **Full Stack Developer** with experience in designing, develop
   🔗 [Live Demo](https://next-auth-v5-six-lake.vercel.app/)   
   **Skills:** Next.js · NextAuth.js
 
-- 👟 **[KiteFoot - Shoe E-Commerce Website](https://github.com/Mantu008/kitefoot)**  
-  A Shoe E-Commerce Website with category-wise shoe listings, enabling seamless browsing and user-friendly UI. '
+- 👟 **[KiteFoot - Shoe E-Commerce Website](https://github.com/Mantu008/Shoes-E_Comm)**  
+  A Shoe E-Commerce Website with category-wise shoe listings, enabling seamless browsing and user-friendly UI.
   🔗 [Live Demo](https://www.kitefoot.com/)   
   **Skills:** React.js · React Router · Tailwind CSS · React Icons
 
@@ -96,7 +96,7 @@ I am a passionate **Full Stack Developer** with experience in designing, develop
   🔗 [Live Demo](https://e-commerce-mern-frontant.vercel.app/)  
   **Skills:** Node.js · Express.js · MongoDB · React.js
 
-- 📦 **[Matrix - Product Packing Management System](https://github.com/Mantu008/Matrix)**  
+- 📦 **[Matrix - Product Packing Management System](https://github.com/Mantu008/product)**  
   Developed a system that automates product-to-box assignments and generates labeled packing PDFs, reducing processing time by 15%.
   🔗 [Live Demo](https://vergin-matrix-frontend.vercel.app/)  
   🔐 **Demo Credentials:** `Username: mantu@gmail.com | Password: mantu`  
