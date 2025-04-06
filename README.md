@@ -114,7 +114,7 @@ I am a passionate **Full Stack Developer** with experience in designing, develop
   **Skills:** Next.js · NextAuth.js
 
 - 👟 **[KiteFoot - Shoe E-Commerce Website](https://github.com/Mantu008/Shoes-E_Comm)**  
-  A Shoe E-Commerce Website with category-wise shoe listings, enabling seamless browsing and user-friendly UI.
+  A Shoe E-Commerce Website with category-wise shoe listings, enabling seamless browsing and user-friendly UI. 
   🔗 [Live Demo](https://www.kitefoot.com/)   
   **Skills:** React.js · React Router · Tailwind CSS · React Icons
 
