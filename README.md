@@ -3,7 +3,8 @@
 📍 **Freelance Full Stack Developer**  
 📧 **Email:** [mantukumar87586299@gmail.com](mailto:mantukumar87586299@gmail.com)  
 🔗 **LinkedIn:** [Mantu Kumar Morya](https://www.linkedin.com/in/mantu-kumar-morya-011927253/)  
-💻 **GitHub:** [Mantu008](https://github.com/Mantu008)  
+💻 **GitHub:** [Mantu008](https://github.com/Mantu008)
+💻 **Portfolio:** [Portfolio](https://professional-portfolio-gamma.vercel.app/)
 
 ---
 
